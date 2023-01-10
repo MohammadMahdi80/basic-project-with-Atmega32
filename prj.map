@@ -1,0 +1,38 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+menu_flg                                                          0x0260       1
+pas_flg                                                           0x0261       1
+led_flg                                                           0x0262       1
+buzzer_flg                                                        0x0263       1
+relay_flg                                                         0x0264       1
+pass_list                                                         0x0265       5
+character                                                         0x026A      17
+flag1                                                             0x027B       1
+flag2                                                             0x027C       1
+flag3                                                             0x027D       1
+rising_edg_flg                                                    0x027E       1
+falling_edg_flg                                                   0x027F       1
+buzzer_sound                                                      0x0280       1
+_base_y                                                           0x0281       4
+_lcd_x                                                            0x0285       1
+_lcd_y                                                            0x0286       1
+_lcd_maxx                                                         0x0287       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+n_entered                                                         R5           1
+x1                                                                R4           1
+x2                                                                R7           1
+x3                                                                R6           1
+x4                                                                R9           1
+a                                                                 R8           1
+b                                                                 R11          1
+c                                                                 R10          1
+d                                                                 R13          1
+pas_entered                                                       R12          1
