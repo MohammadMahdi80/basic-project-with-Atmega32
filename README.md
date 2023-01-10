@@ -2,7 +2,9 @@
 University project for work with LCD, Relay, Buzzer, keypad, 7-segment, Encoder IC(74C922), and delete bunz
 
 ## explain project:
->[PROJECT.pdf](https://github.com/MohammadMahdi80/basic-project-with-Atmega32/files/10378000/5.docx.5.pdf)
+>https://user-images.githubusercontent.com/82968741/211446403-fa9ee4dc-9c52-4805-97f0-35c74cb57197.mp4
+
+
 
 ## circuit on breadbord:
 >https://user-images.githubusercontent.com/82968741/VIDEO.mp4
